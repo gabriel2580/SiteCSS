@@ -1,0 +1,68 @@
+.circulo-vermelho {
+    border-radius: 50%;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+    background-color: red;
+    box-shadow: inset -10px -10px 10px #660, inset 3px 3px 5px #FFF;
+    z-index: 1;
+    position: absolute;
+    left: 453px;
+    bottom: 520px;
+     
+}
+.circulo-vermelho:hover{
+    background-color: #B40431;
+}
+
+.circulo-amarelo {
+    border-radius: 50%;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+    background-color: yellow;
+    box-shadow: inset -10px -10px 10px #660, inset 3px 3px 5px #FFF;
+    z-index: 1;
+    position: absolute;
+    left: 453px;
+    bottom: 400px;
+       
+}
+.circulo-amarelo:hover{
+    background-color: #AEB404;
+}
+
+.circulo-verde {
+    border-radius: 50%;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+    background-color: green;
+    box-shadow: inset -10px -10px 10px #660, inset 3px 3px 5px #FFF;
+    z-index: 1;
+    position: absolute;
+    left: 453px;
+    bottom: 280px;
+    
+}
+.circulo-verde:hover{
+    background-color: #0B3B17;
+        
+}
+
+.quadrado-preto{
+    width: 160px;
+    height: 400px;
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #000;
+    position: relative;
+    left: 415px;
+    top: 0px;
+    bottom: 0px;
+}
+
